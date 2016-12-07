@@ -1,3 +1,3 @@
 # helloweb
 
-just testing...
+Example of PhoneGap Build App
